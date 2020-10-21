@@ -107,7 +107,7 @@ section {
 
 @media (min-width: 700px) {
   #first-section {
-    background-image: url("../assets/images/DSC_0301.jpg");
+    background-image: url("../assets/images/DSC_0301.JPG");
     background-position: 50% 25%;
   }
 
@@ -134,7 +134,6 @@ section {
 
 @media (min-width: 1920px) {
   #first-section {
-    background-image: url("../assets/images/DSC_0301.jpg");
     background-position: 0% 35%;
   }
 
